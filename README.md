@@ -1,19 +1,3 @@
-# React Projects
-
-#### Support
-
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
-#### Tutorial Video
-
-(React Tutorial)[https://youtu.be/iZhV0bILFb0]
-
-#### All Projects
-
-[Projects Site](https://react-projects.netlify.app/)
-
-## Corresponding Tutorial Topics
-
 #### useState
 
 1. Birthday Reminder
